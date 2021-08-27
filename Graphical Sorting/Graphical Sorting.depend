@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1630096834 source:c:\users\keaton\desktop\graphical sorting\allegrofunctions.cpp
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1630096929 c:\users\keaton\desktop\graphical sorting\header.h
+	"Sorting.h"
+	"Display.h"
+	"Button.h"
+	"colours.h"
+
+1630096923 c:\users\keaton\desktop\graphical sorting\sorting.h
+	"colours.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<algorithm>
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<climits>
+	<random>
+	<vector>
+	<list>
+
+1630096928 c:\users\keaton\desktop\graphical sorting\colours.h
+
+1630096930 c:\users\keaton\desktop\graphical sorting\display.h
+	"colours.h"
+	"Button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<algorithm>
+	<iostream>
+	<string>
+
+1630096930 c:\users\keaton\desktop\graphical sorting\button.h
+	"colours.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<string>
+	<vector>
+
+1630096843 source:c:\users\keaton\desktop\graphical sorting\button.cpp
+	"Button.h"
+
+1630096846 source:c:\users\keaton\desktop\graphical sorting\display.cpp
+	"Display.h"
+
+1630096900 source:c:\users\keaton\desktop\graphical sorting\main.cpp
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<stdlib.h>
+	<time.h>
+
+1630096850 source:c:\users\keaton\desktop\graphical sorting\playfunctions.cpp
+	"header.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_primitives.h>
+	<iostream>
+	<string>
+	<vector>
+
+1630096856 source:c:\users\keaton\desktop\graphical sorting\sorting.cpp
+	"Sorting.h"
+
